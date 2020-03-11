@@ -42,9 +42,10 @@
   + **fully native installation on windows is not supported**, installing using Docker: https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions#installing-using-docker  
   
 ## image  
-- opencv4: https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
-  + install: https://anaconda.org/conda-forge/opencv
-  
+- opencv4: https://docs.opencv.org/master/d6/d00/tutorial_py_root.html  
+  + install: https://anaconda.org/conda-forge/opencv  
+  + https://pypi.org/project/opencv-python/  
+  + import cv2  
   
 ## visualizations  
 - matplotlib: https://matplotlib.org/  
@@ -55,12 +56,12 @@
 
 
 
-imbalanced-learn
-flashtext
+imbalanced-learn  
+flashtext  
 
-SymPy
-Bert
-Pytext
-lime
-shap
-py-spy
+SymPy  
+Bert  
+Pytext  
+lime  
+shap  
+py-spy  
