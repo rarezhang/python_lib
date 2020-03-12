@@ -1,5 +1,10 @@
 # python libs I used most  
 
+## search engine  
+- pylucene: https://lucene.apache.org/pylucene/  
+
+
+
 ## web scraping  
 - scrapy: https://docs.scrapy.org/en/latest/ (downloading, cleaning and saving data from the web)  
 - beautifulsoup4: https://www.crummy.com/software/BeautifulSoup/bs4/doc/  (get information out of webpages)  
@@ -19,6 +24,8 @@
 - numpy: https://numpy.org/  
 - scikit-learn: https://scikit-learn.org/stable/
 - statsmodels: https://www.statsmodels.org/stable/index.html (cross-sectional models, time-series models)  
+- prefixspan: https://github.com/chuanconggao/PrefixSpan-py (PrefixSpan: frequent sequential pattern mining, BIDE: frequent closed sequential pattern mining (in closed.py), FEAT: frequent generator sequential pattern mining algorithm  (in generator.py))  
+
 
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
