@@ -1,8 +1,11 @@
 # python libs I used most  
 
 ## search engine  
-- pylucene: https://lucene.apache.org/pylucene/  
-
+- pylucene: https://lucene.apache.org/pylucene/ (low-level indexing and searching capability)  
+    + [examples](https://github.com/rarezhang/python_lib/tree/master/examples/pylucene_test_python3)
+- solr: https://lucene.apache.org/solr/guide/8_4/installing-solr.html (search server, built on top of lucene)  
+    + tutorial: https://lucene.apache.org/solr/guide/8_4/solr-tutorial.html#solr-tutorial  
+    + python: https://lucene.apache.org/solr/guide/8_4/using-python.html   
 
 
 ## web scraping  
