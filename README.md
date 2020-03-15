@@ -20,7 +20,7 @@
   + spacy.displacy: https://spacy.io/usage/visualizers
 - gensim: https://radimrehurek.com/gensim/ (word2vec, doc2vec, LDA, distance metrics, text summarization, pivoted document length normalization)  
 - flashtext: https://github.com/vi3k6i5/flashtext (fast, replace keywords in sentences or extract keywords from sentences)  
-
+- bert-pytorch: https://github.com/codertimo/BERT-pytorch (Train your own BERT model)  
 
 ## machine learning & data science 
 - pandas: https://pandas.pydata.org/   
@@ -37,6 +37,9 @@
 ## time series  
 - PyFlux: https://pyflux.readthedocs.io/en/latest/index.html
     + **only python 3.5 so far**
+
+## math  
+- sympy: https://www.sympy.org/en/index.html (symbolic mathematics, computer algebra system)  
 
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
@@ -75,11 +78,9 @@
 
 
 
-flashtext  
 
-SymPy  
 Bert  
-Pytext  
+
 lime  
 shap  
 py-spy  
