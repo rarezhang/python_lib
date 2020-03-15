@@ -1,4 +1,4 @@
-# python libs I used most  
+# Python libs I used most  
 
 ## search engine  
 - pylucene: https://lucene.apache.org/pylucene/ (low-level indexing and searching capability)  
@@ -19,16 +19,24 @@
 - spacy: https://spacy.io/ (object-oriented approach: returns document object whose words and sentences are objects themselves. Performance is better)  
   + spacy.displacy: https://spacy.io/usage/visualizers
 - gensim: https://radimrehurek.com/gensim/ (word2vec, doc2vec, LDA, distance metrics, text summarization, pivoted document length normalization)  
+- flashtext: https://github.com/vi3k6i5/flashtext (fast, replace keywords in sentences or extract keywords from sentences)  
 
 
 ## machine learning & data science 
 - pandas: https://pandas.pydata.org/   
 - scipy: https://www.scipy.org/  
 - numpy: https://numpy.org/  
-- scikit-learn: https://scikit-learn.org/stable/
+- scikit-learn: https://scikit-learn.org/stable/  
+    + categorical-encoding: https://github.com/scikit-learn-contrib/categorical-encoding (different encoding methods)  
+    + imbalanced-learn: https://github.com/scikit-learn-contrib/imbalanced-learn#imbalanced-learn (under-sampling, over-sampling, combining over-/under-sampling, create ensemble balanced sets)  
 - statsmodels: https://www.statsmodels.org/stable/index.html (cross-sectional models, time-series models)  
 - prefixspan: https://github.com/chuanconggao/PrefixSpan-py (PrefixSpan: frequent sequential pattern mining, BIDE: frequent closed sequential pattern mining (in closed.py), FEAT: frequent generator sequential pattern mining algorithm  (in generator.py))  
+- imbalanced-learn: https://github.com/scikit-learn-contrib/imbalanced-learn (re-sampling techniques: under-sampling, over-sampling, combining over-/under-sampling, create ensemble balanced sets)     
 
+
+## time series  
+- PyFlux: https://pyflux.readthedocs.io/en/latest/index.html
+    + **only python 3.5 so far**
 
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
@@ -66,7 +74,7 @@
 
 
 
-imbalanced-learn  
+
 flashtext  
 
 SymPy  
