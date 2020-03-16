@@ -34,12 +34,13 @@
     + imbalanced-learn: https://github.com/scikit-learn-contrib/imbalanced-learn#imbalanced-learn (under-sampling, over-sampling, combining over-/under-sampling, create ensemble balanced sets)  
 - statsmodels: https://www.statsmodels.org/stable/index.html (cross-sectional models, time-series models)  
 - prefixspan: https://github.com/chuanconggao/PrefixSpan-py (PrefixSpan: frequent sequential pattern mining, BIDE: frequent closed sequential pattern mining (in closed.py), FEAT: frequent generator sequential pattern mining algorithm  (in generator.py))  
-- imbalanced-learn: https://github.com/scikit-learn-contrib/imbalanced-learn (re-sampling techniques: under-sampling, over-sampling, combining over-/under-sampling, create ensemble balanced sets)     
-
+- modle explaination:  
+    + lime: https://github.com/marcotcr/lime (explaining predictions for classifiers)  
+    + SHAP: https://github.com/slundberg/shap (SHapley Additive exPlanations - a game theoretic approach to explain the output of any machine learning model)  
 
 ## time series  
 - PyFlux: https://pyflux.readthedocs.io/en/latest/index.html
-    + **only python 3.5 so far**
+    + **only support python 3.5 so far**
 
 ## math  
 - sympy: https://www.sympy.org/en/index.html (symbolic mathematics, computer algebra system)  
@@ -49,7 +50,7 @@
 - tensorflow: https://www.tensorflow.org/install/  
 
 
-## data base
+## database
 - pymongo: https://api.mongodb.com/python/current/index.html  
 - pymysql: https://github.com/PyMySQL/PyMySQL  
 
@@ -85,8 +86,7 @@
 
 
 
-Bert  
 
-lime  
+
 shap  
 py-spy  
