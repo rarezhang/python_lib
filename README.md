@@ -26,7 +26,7 @@
     + /home/wlz/Utils/bert-serving-server --> server dir
 
 ## machine learning & data science 
-- pandas: https://pandas.pydata.org/   
+- pandas: https://pandas.pydata.org/    
 - scipy: https://www.scipy.org/  
 - numpy: https://numpy.org/  
 - scikit-learn: https://scikit-learn.org/stable/  
