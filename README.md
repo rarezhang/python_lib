@@ -58,7 +58,7 @@
 ## system 
 - cython: https://cython.readthedocs.io/en/latest/index.html  
 - Jupyter: https://ipython.org/  
-
+- py-spy: https://github.com/benfred/py-spy (visualize what your Python program is spending time on)    
 
 ## network analysis 
 - networkx: https://networkx.github.io/  
@@ -88,5 +88,4 @@
 
 
 
-shap  
-py-spy  
+
