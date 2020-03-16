@@ -20,7 +20,10 @@
   + spacy.displacy: https://spacy.io/usage/visualizers
 - gensim: https://radimrehurek.com/gensim/ (word2vec, doc2vec, LDA, distance metrics, text summarization, pivoted document length normalization)  
 - flashtext: https://github.com/vi3k6i5/flashtext (fast, replace keywords in sentences or extract keywords from sentences)  
-- bert-pytorch: https://github.com/codertimo/BERT-pytorch (Train your own BERT model)  
+- bert-pytorch: https://github.com/codertimo/BERT-pytorch (train your own BERT model)  
+- bert-as-service: https://github.com/hanxiao/bert-as-service (using BERT model as a sentence encoding service, i.e. mapping a variable-length sentence to a fixed-length vector)  
+    + **TensorFlow >= 1.10 and <=1.15 (don't install TensorFlow 2.0)**  
+    + /home/wlz/Utils/bert-serving-server --> server dir
 
 ## machine learning & data science 
 - pandas: https://pandas.pydata.org/   
@@ -43,6 +46,8 @@
 
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
+- tensorflow: https://www.tensorflow.org/install/  
+
 
 ## data base
 - pymongo: https://api.mongodb.com/python/current/index.html  
@@ -75,7 +80,8 @@
 - plotly: https://plot.ly/python/ (basic charts, scientific charts, financial charts, maps, 3D charts, subplots, Jupyter Widgets Interaction, transforms, custom controls, animations)  
 
 
-
+## other 
+- youtube_dl: https://github.com/ytdl-org/youtube-dl  
 
 
 
