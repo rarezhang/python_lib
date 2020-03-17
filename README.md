@@ -48,7 +48,11 @@
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
 - tensorflow: https://www.tensorflow.org/install/  
-
+    + tf.keras:  
+    ```python 
+    import tensorflow as tf
+    from tensorflow import keras
+    ```  
 
 ## database
 - pymongo: https://api.mongodb.com/python/current/index.html  
