@@ -48,11 +48,17 @@
 ## deep learning  
 - pytorch: https://pytorch.org/get-started/locally/  
 - tensorflow: https://www.tensorflow.org/install/  
-    + tf.keras:  
+    + tf.keras: https://www.tensorflow.org/guide/keras/overview  
+    Keras users who use multi-backend Keras with the TensorFlow backend switch to tf.keras in TensorFlow 2.0. tf.keras is better maintained and has better integration with TensorFlow features (eager execution, distribution support and other)  
     ```python 
     import tensorflow as tf
     from tensorflow import keras
+    from tensorflow.keras import layers
     ```  
+- ann-visualizer: https://github.com/Prodicode/ann-visualizer (create a presentable graph of the neural network you are building)  
+    + use ```tf.keras``` (did not install Keras) 
+    + ```conda install python-graphviz```  instead of ```pip install graphviz```  
+    + modify modify the [C:\\conda3\\Lib\\site-packages\\ann_visualizer\\visualize.py]() file (see )
 
 ## database
 - pymongo: https://api.mongodb.com/python/current/index.html  
