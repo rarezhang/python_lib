@@ -58,7 +58,7 @@
 - ann-visualizer: https://github.com/Prodicode/ann-visualizer (create a presentable graph of the neural network you are building)  
     + use ```tf.keras``` (did not install Keras) 
     + ```conda install python-graphviz```  instead of ```pip install graphviz```  
-    + modify modify the [C:\\conda3\\Lib\\site-packages\\ann_visualizer\\visualize.py]() file (see )
+    + modify modify the [C:\\conda3\\Lib\\site-packages\\ann_visualizer\\visualize.py]() file (see the [example](https://github.com/rarezhang/python_lib/blob/master/examples/ann-visualizer_example/example_ann.ipynb))
 
 ## database
 - pymongo: https://api.mongodb.com/python/current/index.html  
